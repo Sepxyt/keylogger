@@ -1,4 +1,4 @@
-#  Keylogger with Timestamps (Day 4 of 50 Days of Code)
+#  Keylogger with Timestamps 
 
 A basic but powerful **Python keylogger** that logs keystrokes with precise timestamps. This project is part of my **#50DaysOfCode** cybersecurity challenge — building one security-focused tool each day.
 
